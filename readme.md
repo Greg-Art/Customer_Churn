@@ -1,16 +1,16 @@
-# LP2 Timeseries Project
-This goal of this project is to develop a model which accurately predicts sales across various stores of Favorita
+# Customer Churn Prediction
+This goal of this project is to develop a model which predicts customer churn for vodafone. 
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Time Series Regression |  [Article to project](https://medium.com/@gregoryarthur98/building-accurate-models-for-unit-sales-prediction-in-favorita-stores-using-time-series-forecasting-ff4b90eda30b) | [Best app of the world](/) |
+| LP3 | Customer Churn Prediction |  [Article to project]() | [Best app of the world](/) |
 
 ## Project Description
 
-The aim of this project is to forecast the unit sales of the products across different stores. This is to optimize their inventory management , marketing strategies  and pricing  decisions. To achieve this results, we employed the use of time series in collaboration with different machine learning algorithms via the CRISP-DM framework. 
+Customer attrition is a prevalent problem for many businesses, resulting in large financial losses. We intend to investigate customer churn or attrition in this project, which refers to the percentage of consumers that discontinue using a company's product or service within a specified time frame. Understanding the primary causes of customer churn can assist businesses in developing effective retention strategies to reduce customer attrition and boost revenue.
 
-The objective of this analysis is to select the best prediction model from the different ML algorithms tested. This model will be the solution to be adopted by the company to help Favorita Corporation make insightful decisions in relation to their retail sales ,promotion and customer statisfaction. 
+This project's dataset includes information about users' demographics, service usage, and billing information. We will use this dataset to conduct an exploratory data analysis in order to find patterns and trends linked to customer attrition. We will next use machine learning techniques to create a predictive model that will estimate the likelihood of a customer leaving the firm.
 
 ## Setup
 ...
