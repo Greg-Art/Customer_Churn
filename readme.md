@@ -4,7 +4,7 @@ This goal of this project is to develop a model which predicts customer churn fo
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP3 | Customer Churn Prediction |  [Article to project]() | [Best app of the world](/) |
+| LP2 | Customer Churn Prediction |  [Article to project](https://medium.com/@gregoryarthur98/maximizing-customer-retention-a-churn-prediction-analysis-for-vodafone-43640fb5fb0f) | [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/8aae8740-d952-457f-bc00-c8d1d87471be/ReportSection?experience=power-bi) |
 
 ## Project Description
 
